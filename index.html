@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- toastify -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <!-- custom css -->
+     <link rel="stylesheet" href="./style.css">
+    <title>Weather</title>
+</head>
+<body>
+    <div class="card">
+        <div class="search">
+            <input type="text" placeholder="Enter city name" spellcheck="false" id="input-box"/>
+            <button id="handleCityBtn"><img src="./assets/search.png" /></button>
+        </div>
+        <div class="main-heading">
+            <h1>Weather Forcast</h1>
+            <img src="./assets/world.png">
+        </div>
+        <div class="loader-section">
+            <div class="dot-spinner">
+                <div class="dot-spinner__dot"></div>
+                <div class="dot-spinner__dot"></div>
+                <div class="dot-spinner__dot"></div>
+                <div class="dot-spinner__dot"></div>
+                <div class="dot-spinner__dot"></div>
+                <div class="dot-spinner__dot"></div>
+                <div class="dot-spinner__dot"></div>
+                <div class="dot-spinner__dot"></div>
+            </div>
+        </div>
+        <div class="weather">
+            <img src="./assets/rain.png" class="weather-icon" id="weather-icon"/>
+            <h1 id="temp">22°C</h1>
+            <h2 id="city-name">New York</h2>
+            <div class="detail">
+                <div class="col">
+                    <img src="./assets/humidity.png" />
+                    <div>
+                        <p class="humidity" id="humidity">50%</p>
+                        <p>Humidity</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <img src="./assets/wind.png" />
+                    <div>
+                        <p class="wind" id="wind">22 km/h</p>
+                        <p>Wind Speed</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<!-- toastify -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+
+<script src="./script.js"></script>
+</body>
+</html>
