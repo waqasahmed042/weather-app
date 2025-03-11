@@ -1,5 +1,5 @@
-# Form Validations
-A responsive and user-friendly form validation system ensuring accurate user input with real-time feedback, error handling, password strength checks, email validation, and required field alerts for a seamless user experience. 🚀
+# Weather App
+A sleek and responsive weather application providing real-time weather updates, forecasts, and location-based climate details. Stay informed with temperature, humidity, wind speed, and more for a seamless weather-tracking experience. ☀️🌧️🌡️
 
 ## Table of Contents
 - [Live Demo 🌐](#demo)
@@ -12,34 +12,18 @@ A responsive and user-friendly form validation system ensuring accurate user inp
 - [Get in Touch 📩](#contact)
 
 ## Demo
-Check out the live demo of the website: [Form Validations](https://waqasahmed042.github.io/form-validations/)
+Check out the live demo of the website: [Weather App](https://waqasahmed042.github.io/weather-app/)
 
 ## Features
-- Essential Features for an Effective Login & Signup Form.
+- Essential Features for Weather App.
 
-   **1 User-Friendly UI**
-   - Clear and simple design with easy-to-read labels and input fields.
-   - Proper spacing and alignment for better readability.
-
-   **2 Responsive Design**
-   - Ensures the form works well on different screen sizes (mobile, tablet, and desktop).
-   - Uses flexible layouts and media queries for adaptability.
-
-   **3 Validation & Error Handling**
-   - Includes real-time validation for inputs (e.g., email format, password strength).
-   - Displays error messages clearly to guide users in correcting mistakes.
-
-   **4 Secure Authentication**
-   - Uses encrypted password fields.
-   - Implements features like multi-factor authentication (MFA) and CAPTCHA to prevent bot attacks.
-
-   **5 Toggle Between Login & Signup**
-   - Provides a seamless switch between login and registration without reloading the page.
-   - Uses tabs or buttons for an easy toggle experience.
-
-   **6 Responsive Design**
-   - Adds a checkbox or icon to toggle password visibility for better usability.
-   - Helps users avoid typing errors while entering passwords.
+   ⏰ **Real-Time Weather Updates** – Get instant weather information for any location worldwide.
+   🌍 **Location-Based Forecasts** – Automatically fetch weather details based on your current location.
+   📅 **7-Day Forecast** – Plan ahead with accurate weekly weather predictions.
+   🔥 **Temperature Details** – View temperature in Celsius or Fahrenheit with real-time updates.
+   💨 **Wind & Humidity Levels** – Track wind speed, humidity, and air pressure for better insights.
+   🌙 **Day/Night Mode** – Adaptive UI that changes based on the time of day.
+   🔍 **Search Functionality** – Easily search for weather conditions in any city.
 
    Would you like suggestions for animations or extra UX improvements? 🚀
 
@@ -60,4 +44,4 @@ To view or edit the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/waqasahmed042/form-validations.git
+   git clone https://github.com/waqasahmed042/weather-app.git
