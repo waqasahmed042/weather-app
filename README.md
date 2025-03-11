@@ -18,11 +18,17 @@ Check out the live demo of the website: [Weather App](https://waqasahmed042.gith
 - Essential Features for Weather App.
 
    ⏰ **Real-Time Weather Updates** – Get instant weather information for any location worldwide.
+   
    🌍 **Location-Based Forecasts** – Automatically fetch weather details based on your current location.
+
    📅 **7-Day Forecast** – Plan ahead with accurate weekly weather predictions.
+
    🔥 **Temperature Details** – View temperature in Celsius or Fahrenheit with real-time updates.
+
    💨 **Wind & Humidity Levels** – Track wind speed, humidity, and air pressure for better insights.
+
    🌙 **Day/Night Mode** – Adaptive UI that changes based on the time of day.
+   
    🔍 **Search Functionality** – Easily search for weather conditions in any city.
 
    Would you like suggestions for animations or extra UX improvements? 🚀
